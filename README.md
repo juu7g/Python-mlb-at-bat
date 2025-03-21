@@ -1,4 +1,5 @@
-﻿# Python-mlb-at-bat [English notation](#englishnotation)
+﻿# Python-mlb-at-bat
+[In English](#in-english)
 
 ## 概要
 次の打席お知らせアプリ
@@ -20,7 +21,7 @@ MLB の選手の打席が近づくと知らせます
 	相手のチームに同じ名前の選手がいるとその選手の打席も知らせます  
 - 本アプリは www.mlb.com にアクセスします  
 	その際にクッキーの使用を許可するように応答しています  
-	クッキーの使用を許可したくない場合、本アプリを使用しないでください。  
+	*クッキーの使用を許可したくない場合、本アプリを使用しないでください。*  
 
 ## 依存関係（実行時）
 
@@ -31,7 +32,6 @@ MLB の選手の打席が近づくと知らせます
 - Python 3.12.8
 - selenium 4.27.1
 - i18nice 0.15.5
-- Windows 64ビット OS
 
 ## 使い方
 ### 起動
@@ -68,7 +68,7 @@ MLB の選手の打席が近づくと知らせます
 ## プログラムの説明サイト Program description site
 
 - 使い方：[大谷選手の打席を見逃さない！打席お知らせアプリ【フリー】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/scraping/mlb-at-bat-exe)  
-- 作り方：[MLB Gamedayのスクレイピング【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/scraping/mlb-at-bat)
+- *準備中*作り方：[MLB Gamedayのスクレイピング【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/scraping/mlb-at-bat)
 
 ## 作者
 juu7g
@@ -140,11 +140,6 @@ A command window will open and display the operation status.
 	- Variable Name : Contents
 	- on_deck : CSS selector to find on_dech
 	- due_up  : CSS selector to find due_up
-
-## Program description site
-
-- How to use : [大谷選手の打席を見逃さない！打席お知らせアプリ【フリー】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/scraping/mlb-at-bat-exe)  
-- How to make : [MLB Gamedayのスクレイピング【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/scraping/mlb-at-bat)
 
 ## Authors
 juu7g
