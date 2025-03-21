@@ -2,7 +2,7 @@
 [In English](#in-english)
 
 ## 概要
-次の打席お知らせアプリ
+MLB 次の打席お知らせアプリ
 
 MLB の選手の打席が近づくと知らせます
 
@@ -79,9 +79,9 @@ juu7g
 ## In English
 
 ## Description
-Next at bat notification app
+MLB Next at bat notification app
 
-Notify when MLB players are at bat
+Notify when MLB player is on deck
 
 ## Features
 
