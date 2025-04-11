@@ -68,7 +68,7 @@ MLB の選手の打席が近づくと知らせます
 ## プログラムの説明サイト Program description site
 
 - 使い方：[大谷選手の打席を見逃さない！打席お知らせアプリ【フリー】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/scraping/mlb-at-bat-exe)  
-- *準備中*作り方：[MLB Gamedayのスクレイピング【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/scraping/mlb-at-bat)
+- 作り方：[MLB Gamedayのスクレイピング(Selenium)と打席通知アプリの作り方【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/scraping/mlb-at-bat)
 
 ## 作者
 juu7g
