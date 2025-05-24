@@ -177,8 +177,8 @@ def start_gameday():
     print("Start looking for Gameday link")
 
     # Gameday アイコンが出るまで待ち、出たらアイコン(ボタン)をクリック
-    wait.until(Ec.element_to_be_clickable((By.CLASS_NAME, "trk-gameday")), i18n.t("msg.gameday"))
-    element = driver.find_element(By.CSS_SELECTOR, ".trk-gameday button")
+    element = wait.until(Ec.element_to_be_clickable((By.CLASS_NAME, "trk-gameday")), i18n.t("msg.gameday"))
+    # element = driver.find_element(By.CSS_SELECTOR, ".trk-gameday button")
     element.click()
     print("goto Gameday")
 
